@@ -1,0 +1,7 @@
+{
+  "name": "Catch Falling Notes Symphony_final",
+  "description": "A magical, hand-controlled music experience where glowing musical notes fall from the sky.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
